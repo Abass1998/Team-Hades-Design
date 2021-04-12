@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.now{
+    text-decoration: none;
+    color: white;
+}
 body{
     font-family: 'Poppins', sans-serif;
     max-width: 100%;
